@@ -1,5 +1,5 @@
-## one-page-html-assignment
-# SKILLS
+# one-page-html-assignment
+## SKILLS
 
 - HTML
 - CSS
